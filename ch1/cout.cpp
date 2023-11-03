@@ -1,3 +1,7 @@
+/*
+    This is my program.
+*/
+
 #include <iostream>
 
 int main()
